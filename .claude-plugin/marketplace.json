@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "weight-surgery",
+  "description": "Weight surgery: find the weights behind a behaviour in a trained transformer and edit them directly, without training.",
+  "owner": {
+    "name": "Mohammad Abu Ayyash",
+    "url": "https://github.com/achelousace"
+  },
+  "plugins": [
+    {
+      "name": "weight-surgery",
+      "description": "Find the weights behind a behaviour in a trained transformer (loops, repetition, a habit) and edit them directly, without training.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

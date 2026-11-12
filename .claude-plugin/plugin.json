@@ -1,0 +1,9 @@
+{
+  "name": "weight-surgery",
+  "version": "1.0.0",
+  "description": "Find the weights behind a behaviour in a trained transformer (loops, repetition, a habit) and edit them directly, without training: reversible edits, honest screening, and a verified save with an undo file.",
+  "author": {
+    "name": "Mohammad Abu Ayyash",
+    "url": "https://github.com/achelousace"
+  }
+}
